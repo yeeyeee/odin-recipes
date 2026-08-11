@@ -1,0 +1,31 @@
+.title{
+    background-color: aquamarine;
+    color: brown;
+    text-align: center;
+}
+
+.menu,
+.ingredients,
+.directions{
+    background-color: blueviolet;
+    color: beige;
+    padding: 40px 80px;
+}
+
+.subtitle{
+    background-color: rgb(47, 134, 211);
+    color: blanchedalmond;
+    padding: 20px 80px;
+}
+
+.image{
+    height: 400px;
+    margin: auto;
+    display: block;
+}
+
+.description{
+    background-color: rgb(166, 78, 207);
+    color: blanchedalmond;
+    padding: 20px 80px;
+}
